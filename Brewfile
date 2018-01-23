@@ -19,6 +19,7 @@ brew "postgresql"
 brew "rbenv"
 brew "kubectl"
 brew "heroku"
+brew "nodenv"
 
 cask "docker"
 
