@@ -14,6 +14,7 @@ cask "iterm2"
 mas "1Password", id: 443987910
 mas "Slack", id: 803453959
 
+brew "zsh"
 brew "ansible"
 brew "postgresql"
 brew "rbenv"
