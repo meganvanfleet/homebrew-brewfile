@@ -17,8 +17,10 @@ mas "Slack", id: 803453959
 brew "zsh"
 brew "ansible"
 brew "postgresql"
+brew "awscli"
 brew "rbenv"
 brew "kubectl"
+brew "kops"
 brew "heroku"
 brew "nodenv"
 
