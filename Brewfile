@@ -15,14 +15,19 @@ mas "1Password", id: 443987910
 mas "Slack", id: 803453959
 
 brew "zsh"
+brew "jshon"
+brew "tree"
+brew "most"
 brew "ansible"
 brew "postgresql"
 brew "awscli"
 brew "rbenv"
 brew "kubectl"
 brew "kops"
+brew "kubernetes-helm"
 brew "heroku"
 brew "nodenv"
+brew "terraform"
 
 cask "docker"
 
